@@ -1,0 +1,26 @@
+income,ward,wardname,avg_proactive_building_score
+95200,01,Etobicoke North,89.02631578947368
+146600,02,Etobicoke Centre,91.23214285714286
+127200,03,Etobicoke-Lakeshore,89.21774193548387
+127200,04,Parkdale-High Park,86.5
+88700,05,York South-Weston,84.76521739130435
+107500,06,York Centre,87.09734513274336
+85700,07,Humber River-Black Creek,84.23076923076923
+176400,08,Eglinton-Lawrence,86.024
+107300,09,Davenport,84
+118200,10,Spadina-Fort York,87.31818181818181
+174800,11,University-Rosedale,83.65217391304348
+160400,12,Toronto-St. Paul's,87.46540880503144
+89400,13,Toronto Centre,90.575
+130800,14,Toronto-Danforth,90.6984126984127
+224800,15,Don Valley West,87.78021978021978
+100300,16,Don Valley East,89
+103800,17,Don Valley North,91.3
+106300,18,Willowdale,91.6842105263158
+130600,19,Beaches-East York,80.77083333333333
+102200,20,Scarborough Southwest,90.85
+91500,21,Scarborough Centre,88.8970588235294
+93000,22,Scarborough-Agincourt,88.1875
+100000,23,Scarborough North,92.5
+92700,24,Scarborough-Guildwood,87.43243243243244
+121800,25,Scarborough-Rouge Park,92.75
