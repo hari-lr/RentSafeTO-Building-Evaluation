@@ -1,5 +1,5 @@
 # RentSafeTO-Building-Evaluation
-##Overview
+## Overview
 This repo consists a data analysis project associated with Telling Stories with Data. This paper analyzes possible demographic and physical factors of the current Apartment Building Evaluations in Toronto. Specifically, the report speculates the relationship between ward income and year of construction with the building evaluation scores. 
 
 # File Structure
