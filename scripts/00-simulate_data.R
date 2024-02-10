@@ -1,7 +1,4 @@
----
-title: "00-simulate_data"
-format: html
----
+
 ```{r}
 #### Preamble ####
 # Purpose: Simulate the Apartment Building Evaluation data set from the Open Data Toronto website
