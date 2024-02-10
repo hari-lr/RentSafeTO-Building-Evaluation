@@ -1,7 +1,4 @@
----
-title: "02-clean_data"
-format: html
----
+
 ```{r}
 #### Preamble ####
 # Purpose: Clean the Apartment Building Evaluation data set 
