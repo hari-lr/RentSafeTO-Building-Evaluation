@@ -1,7 +1,3 @@
----
-title: "01-download_data"
-format: html
----
 ```{r}
 #### Preamble ####
 # Purpose: Download the Apartment Building Evaluation data set and the Ward Profile data setfrom the Open Data Toronto website
